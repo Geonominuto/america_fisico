@@ -1,0 +1,472 @@
+{
+  "clima": {
+    "introducao": "<p class='text-lg text-gray-700 mb-4'><strong>Climas das Américas:</strong> As Américas abrangem uma vasta gama de climas devido à sua extensão latitudinal, que vai do Ártico ao extremo sul da América do Sul. A distribuição dos tipos climáticos está diretamente relacionada com o relevo e influencia os diferentes tipos de vegetação encontrados no continente. 🌍</p><div class='mb-4'><img src='images/clima.jpg' alt='Mapa de climas da América' class='w-full rounded-lg shadow-md pinch-zoom-img' data-min-scale='1' data-max-scale='3'></div>",
+    "caracteristicas": "<ul class='list-disc list-inside space-y-2'><li><strong>Clima Equatorial:</strong> Predominante na Amazônia, com temperaturas médias de 25-27°C e chuvas intensas (2000-3000 mm/ano). Sustenta a maior floresta tropical do mundo. 🌧️</li><li><strong>Clima Tropical:</strong> Presente na América Central, norte da América do Sul e sudeste do Brasil, com estações seca e chuvosa bem definidas e temperaturas médias entre 20-28°C. 🌦️</li><li><strong>Clima Árido:</strong> Encontrado no <span class='tooltip'>Deserto do Atacama<span class='tooltip-text'>O deserto mais seco do mundo, localizado no Chile</span></span> (Chile), o mais seco do mundo, com menos de 15 mm de chuva por ano, e no sudoeste dos EUA (Deserto de Sonora). 🌵</li><li><strong>Clima Mediterrâneo:</strong> Na Califórnia (EUA) e Chile central, caracterizado por verões quentes e secos e invernos amenos e chuvosos. 🍇</li><li><strong>Clima Temperado:</strong> Nas Grandes Planícies dos EUA, com verões quentes (acima de 30°C) e invernos frios (abaixo de 0°C), além de tornados frequentes na 'Tornado Alley'. 🌪️</li><li><strong>Clima Subtropical:</strong> No sudeste dos EUA, sul do Brasil, Uruguai e nordeste da Argentina, com verões quentes e úmidos e invernos amenos. 🌿</li><li><strong>Clima Polar:</strong> No norte do Canadá e Alasca, com temperaturas que podem cair abaixo de -40°C no inverno e verões extremamente curtos. ❄️</li></ul>",
+    "exemplos": "<p class='text-lg text-gray-700 mt-4'>Os climas são influenciados por fatores como latitude, correntes oceânicas (ex.: <span class='tooltip'>Corrente de Humboldt<span class='tooltip-text'>Corrente oceânica fria que flui ao longo da costa oeste da América do Sul</span></span> no Atacama) e massas de ar. O relevo também exerce papel fundamental, como os Andes que criam diferentes zonas climáticas em curtas distâncias. Fenômenos como o <span class='tooltip'>El Niño<span class='tooltip-text'>Fenômeno climático caracterizado pelo aquecimento anormal das águas do Oceano Pacífico</span></span> afetam a América do Sul, causando chuvas intensas no Peru e secas na Amazônia. 🌊</p>",
+    "expandable": "<h4 class='text-xl font-semibold text-green-600 mb-2'>Curiosidades sobre o Clima das Américas</h4><ul class='list-disc list-inside space-y-2'><li>O <strong>Vale da Morte</strong> na Califórnia (EUA) registrou 56,7°C em 1913, uma das temperaturas mais altas já registradas no mundo. 🔥</li><li>A cidade de <strong>Cherrapunji</strong> na Índia detém o recorde de maior precipitação em um ano (26.471 mm), mas a <strong>Floresta Amazônica</strong> é o local com chuvas mais consistentes ao longo do ano. 🌧️</li><li>O fenômeno da <strong>sombra de chuva</strong> ocorre quando montanhas bloqueiam nuvens carregadas, criando áreas secas do lado oposto - como acontece com os Andes e o Deserto do Atacama. 🏔️</li><li>As <strong>chuvas orográficas</strong> ocorrem quando o ar úmido é forçado a subir ao encontrar montanhas, resfriando e condensando em forma de chuva. Este fenômeno é comum nos Andes e nas Montanhas Rochosas. ⛰️</li><li>A <strong>relação entre clima e vegetação</strong> é evidente nas Américas: o clima equatorial sustenta florestas tropicais, o clima temperado permite o desenvolvimento de pradarias e florestas decíduas, enquanto o clima árido limita a vegetação a espécies xerófitas adaptadas à seca. 🌱</li></ul>",
+    "video": "https://www.youtube.com/embed/JFfD6jn_OvA",
+    "explicacao": "<div class='mb-6'><h3 class='text-2xl font-bold text-green-700 mb-4'>A Influência do Clima no Relevo e na Vegetação</h3><p class='text-lg text-gray-700 mb-4'>O clima é um dos principais fatores que determinam tanto as formas de relevo quanto os tipos de vegetação encontrados nas Américas. Esta relação de interdependência cria os diversos biomas do continente.</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 mb-4'><div><img src='images/vegetacao.jpg' alt='Mapa de vegetação da América' class='w-full rounded-lg shadow-md pinch-zoom-img' data-min-scale='1' data-max-scale='3'></div><div><img src='images/mapa mental.png' alt='Mapa mental: Clima, Relevo e Vegetação' class='w-full rounded-lg shadow-md pinch-zoom-img' data-min-scale='1' data-max-scale='3'></div></div><p class='text-lg text-gray-700 mb-4'>O clima influencia o intemperismo e a erosão, processos que modelam o relevo ao longo de milhões de anos. Por exemplo, em regiões de clima úmido, como a Amazônia, predomina o intemperismo químico, que decompõe as rochas e forma solos profundos. Já em regiões áridas, como o Atacama, o intemperismo físico é mais intenso, fragmentando as rochas sem alterá-las quimicamente.</p><p class='text-lg text-gray-700 mb-4'>A vegetação, por sua vez, é diretamente influenciada pelo clima e pelo relevo. O tipo de solo, a disponibilidade de água e a temperatura determinam quais espécies vegetais podem se desenvolver em cada região. Por exemplo:</p><ul class='list-disc list-inside space-y-2 mb-4'><li>Nas regiões de <strong>clima equatorial</strong>, o calor e a umidade constantes permitem o desenvolvimento de florestas tropicais densas, como a Amazônia.</li><li>Nas áreas de <strong>clima temperado</strong>, as quatro estações bem definidas favorecem florestas decíduas (que perdem folhas no outono) e pradarias.</li><li>Em regiões de <strong>clima árido</strong>, a vegetação é adaptada à escassez de água, com plantas xerófitas como cactos e arbustos espinhosos.</li><li>Nas zonas de <strong>clima polar</strong>, apenas musgos, líquens e algumas gramíneas resistentes conseguem sobreviver às baixas temperaturas.</li></ul><p class='text-lg text-gray-700'>Esta interação entre clima, relevo e vegetação cria um sistema dinâmico em constante transformação, onde cada elemento influencia e é influenciado pelos demais, resultando na rica diversidade de paisagens naturais das Américas.</p></div>",
+    "biomas": [
+      {
+        "id": "equatorial",
+        "nome": "Clima Equatorial",
+        "cor": "green",
+        "emoji": "🌧️",
+        "descricao": "<p class='text-lg text-gray-700'>O clima equatorial é quente e úmido durante todo o ano, com temperaturas médias entre 25°C e 27°C e precipitação anual de 2000 a 3000 mm. 🌧️</p><div class='mb-4'><img src='images/florestatropical.jpg' alt='Floresta Tropical Amazônica' class='w-full rounded-lg shadow-md pinch-zoom-img' data-min-scale='1' data-max-scale='3'></div><p class='text-lg text-gray-700'>Na América, este clima é encontrado principalmente na Bacia Amazônica, abrangendo países como Brasil, Colômbia, Peru, Equador e Venezuela. A alta umidade e as chuvas constantes sustentam a Floresta Amazônica, o maior bioma de floresta tropical do mundo. 🌴</p><p class='text-lg text-gray-700'>Características principais:</p><ul class='list-disc list-inside'><li>Baixa amplitude térmica anual (variação menor que 3°C)</li><li>Chuvas bem distribuídas ao longo do ano</li><li>Alta umidade relativa do ar (acima de 80%)</li><li>Formação de nuvens convectivas e chuvas intensas no período da tarde</li></ul>"
+      },
+      {
+        "id": "arido",
+        "nome": "Clima Árido",
+        "cor": "yellow",
+        "emoji": "🌵",
+        "descricao": "<p class='text-lg text-gray-700'>O clima árido é caracterizado por precipitação extremamente baixa (menos de 250 mm por ano) e alta evaporação. 🌵</p><div class='mb-4'><img src='images/deserto.jpg' alt='Deserto com cactos' class='w-full rounded-lg shadow-md pinch-zoom-img' data-min-scale='1' data-max-scale='3'></div><p class='text-lg text-gray-700'>Nas Américas, o exemplo mais extremo é o Deserto do Atacama no Chile, considerado o mais seco do mundo, com algumas áreas recebendo menos de 1 mm de chuva por ano. Outros exemplos incluem o Deserto de Sonora (México/EUA) e partes da Patagônia na Argentina. 🏜️</p><p class='text-lg text-gray-700'>Características principais:</p><ul class='list-disc list-inside'><li>Grande amplitude térmica diária (dias quentes e noites frias)</li><li>Umidade relativa do ar muito baixa</li><li>Vegetação escassa e adaptada à seca</li><li>Solos pobres em matéria orgânica</li></ul>"
+      },
+      {
+        "id": "temperado",
+        "nome": "Clima Temperado",
+        "cor": "blue",
+        "emoji": "🌤️",
+        "descricao": "<p class='text-lg text-gray-700'>O clima temperado apresenta quatro estações bem definidas e temperatura média anual entre 10°C e 20°C. 🌤️</p><div class='mb-4'><img src='images/estepes.jpg' alt='Estepes com montanhas ao fundo' class='w-full rounded-lg shadow-md pinch-zoom-img' data-min-scale='1' data-max-scale='3'></div><p class='text-lg text-gray-700'>Nas Américas, este clima é encontrado principalmente nos Estados Unidos (região central e leste), sul do Canadá, sul do Brasil, Uruguai, parte da Argentina e Chile central. 🌎</p><p class='text-lg text-gray-700'>Características principais:</p><ul class='list-disc list-inside'><li>Verões quentes e invernos frios</li><li>Precipitação bem distribuída ao longo do ano (em algumas regiões)</li><li>Estações do ano bem definidas</li><li>Grande diversidade de vegetação, desde florestas decíduas até pradarias</li></ul>"
+      },
+      {
+        "id": "polar",
+        "nome": "Clima Polar",
+        "cor": "lightblue",
+        "emoji": "❄️",
+        "descricao": "<p class='text-lg text-gray-700'>O clima polar é caracterizado por temperaturas extremamente baixas durante a maior parte do ano, com médias anuais abaixo de 0°C. ❄️</p><div class='mb-4'><img src='images/tundra.jpg' alt='Paisagem de Tundra' class='w-full rounded-lg shadow-md pinch-zoom-img' data-min-scale='1' data-max-scale='3'></div><p class='text-lg text-gray-700'>Nas Américas, este clima é encontrado no extremo norte do Canadá, Alasca e Groenlândia. Durante o inverno, as temperaturas podem cair para -40°C ou menos, e o verão é extremamente curto, com temperaturas raramente ultrapassando 10°C. 🧊</p><p class='text-lg text-gray-700'>Características principais:</p><ul class='list-disc list-inside'><li>Invernos longos e extremamente frios</li><li>Verões curtos e frescos</li><li>Presença de permafrost (solo permanentemente congelado)</li><li>Vegetação limitada a musgos, líquens e plantas herbáceas de pequeno porte</li><li>Fenômeno do sol da meia-noite no verão e noite polar no inverno</li></ul>"
+      },
+      {
+        "id": "savana",
+        "nome": "Clima de Savana",
+        "cor": "orange",
+        "emoji": "🌾",
+        "descricao": "<p class='text-lg text-gray-700'>O clima de savana é caracterizado por duas estações bem definidas: uma chuvosa e outra seca, com temperaturas médias entre 20°C e 30°C. 🌾</p><div class='mb-4'><img src='images/savana.jpg' alt='Savana com árvores esparsas' class='w-full rounded-lg shadow-md pinch-zoom-img' data-min-scale='1' data-max-scale='3'></div><p class='text-lg text-gray-700'>Nas Américas, este clima é encontrado em partes do Brasil (Cerrado), Venezuela (Llanos), Bolívia e Colômbia. A vegetação típica consiste em gramíneas com árvores esparsas e arbustos adaptados aos períodos de seca. 🌳</p><p class='text-lg text-gray-700'>Características principais:</p><ul class='list-disc list-inside'><li>Estação seca pronunciada (geralmente no inverno)</li><li>Estação chuvosa bem definida (geralmente no verão)</li><li>Vegetação adaptada ao fogo (cascas grossas, raízes profundas)</li><li>Árvores de pequeno e médio porte, geralmente com troncos retorcidos</li><li>Grande biodiversidade, especialmente de plantas herbáceas</li></ul>"
+      }
+    ],
+    "quiz": [
+      {
+        "pergunta": "O que são chuvas orográficas e como elas afetam o clima nos Andes? 🌧️",
+        "resposta": "c",
+        "dificuldade": "basic",
+        "opcoes": [
+          { "texto": "a) Chuvas que caem no deserto do Atacama", "feedback": "Não! O Atacama é seco por causa da sombra de chuva! 😅", "correta": false },
+          { "texto": "b) Chuvas que caem no lado leste dos Andes", "feedback": "Quase! Mas o lado leste é mais seco. Tente novamente! 😊", "correta": false },
+          { "texto": "c) Chuvas no lado oeste causadas por montanhas", "feedback": "Correto! As montanhas bloqueiam ventos úmidos, causando chuvas no oeste! 🎉", "correta": true },
+          { "texto": "d) Chuvas que resfriam o Alasca", "feedback": "Não, isso é outro clima! Vamos tentar? 😉", "correta": false }
+        ]
+      },
+      {
+        "pergunta": "Qual é o principal fator que torna o Deserto do Atacama tão seco? 🏜️",
+        "resposta": "b",
+        "dificuldade": "basic",
+        "opcoes": [
+          { "texto": "a) Proximidade com a Amazônia", "feedback": "Não! A Amazônia é úmida. Tente novamente! 😅", "correta": false },
+          { "texto": "b) Corrente de Humboldt", "feedback": "Correto! A corrente fria resfria o ar e impede a formação de chuvas! 🎉", "correta": true },
+          { "texto": "c) El Niño", "feedback": "Não! O El Niño traz chuvas, não seca. Tente novamente! 😊", "correta": false },
+          { "texto": "d) Altitude baixa", "feedback": "Não! A altitude não é o principal fator aqui. Vamos tentar? 😉", "correta": false }
+        ]
+      },
+      {
+        "pergunta": "O que é a 'Tornado Alley' nos EUA? 🌪️",
+        "resposta": "a",
+        "dificuldade": "basic",
+        "opcoes": [
+          { "texto": "a) Região com tornados frequentes", "feedback": "Correto! Fica nas Grandes Planícies, com tornados devido a massas de ar contrastantes! 🎉", "correta": true },
+          { "texto": "b) Área de clima equatorial", "feedback": "Não! O clima equatorial é mais ao sul. Tente novamente! 😅", "correta": false },
+          { "texto": "c) Deserto árido", "feedback": "Não! Desertos não têm tornados. Tente novamente! 😊", "correta": false },
+          { "texto": "d) Região polar", "feedback": "Não! Regiões polares são muito frias para tornados. Vamos tentar? 😉", "correta": false }
+        ]
+      },
+      {
+        "pergunta": "Como o fenômeno El Niño afeta o clima da América do Sul? 🌊",
+        "resposta": "b",
+        "dificuldade": "intermediate",
+        "opcoes": [
+          { "texto": "a) Causa secas no Peru e chuvas na Amazônia", "feedback": "Não! É o contrário. O El Niño causa chuvas no Peru e secas na Amazônia. 😅", "correta": false },
+          { "texto": "b) Causa chuvas intensas no Peru e secas na Amazônia", "feedback": "Correto! O El Niño aquece as águas do Pacífico, alterando os padrões de chuva na América do Sul! 🎉", "correta": true },
+          { "texto": "c) Não afeta o clima da América do Sul", "feedback": "Incorreto! O El Niño tem grande impacto no clima sul-americano. 😊", "correta": false },
+          { "texto": "d) Causa invernos mais frios em toda a América do Sul", "feedback": "Não! O El Niño geralmente causa temperaturas mais altas, não mais baixas. 😉", "correta": false }
+        ]
+      },
+      {
+        "pergunta": "Por que a latitude é um fator importante para determinar o clima de uma região? 🌍",
+        "resposta": "c",
+        "dificuldade": "advanced",
+        "opcoes": [
+          { "texto": "a) Porque determina a altitude da região", "feedback": "Não! Latitude e altitude são conceitos diferentes. A latitude é a distância angular ao equador. 😅", "correta": false },
+          { "texto": "b) Porque influencia apenas a temperatura, não as chuvas", "feedback": "Incorreto! A latitude influencia tanto a temperatura quanto os padrões de precipitação. 😊", "correta": false },
+          { "texto": "c) Porque determina o ângulo de incidência dos raios solares", "feedback": "Correto! O ângulo de incidência dos raios solares varia com a latitude, afetando a quantidade de energia solar recebida! 🎉", "correta": true },
+          { "texto": "d) Porque determina a proximidade com os oceanos", "feedback": "Não! A proximidade com oceanos é independente da latitude. 😉", "correta": false }
+        ]
+      }
+    ]
+  },
+  "relevo": {
+    "introducao": "<p class='text-lg text-gray-700 mb-4'><strong>Relevo das Américas:</strong> O relevo das Américas é marcado por grandes cadeias montanhosas, planaltos e planícies, resultado de milhões de anos de atividade tectônica. A diversidade de formas de relevo influencia diretamente os climas e os tipos de vegetação encontrados no continente. ⛰️</p><div class='mb-4'><img src='images/relevo.jpg' alt='Mapa de relevo da América' class='w-full rounded-lg shadow-md pinch-zoom-img' data-min-scale='1' data-max-scale='3'></div>",
+    "caracteristicas": "<ul class='list-disc list-inside space-y-2'><li><strong>Cordilheira dos Andes:</strong> Estende-se por 7000 km ao longo da costa oeste da América do Sul, com picos como o <span class='tooltip'>Aconcágua<span class='tooltip-text'>O ponto mais alto do hemisfério sul, com 6959 metros de altitude</span></span> (6959m), o mais alto do hemisfério sul. 🏔️</li><li><strong>Montanhas Rochosas:</strong> Na América do Norte, com altitudes médias de 3000-4000m, formadas pela colisão de placas tectônicas há 80 milhões de anos. 🏔️</li><li><strong>Planalto Central Brasileiro:</strong> Um planalto antigo e erodido, com elevações entre 300 e 1000m, rico em minerais como ouro e ferro. 🏜️</li><li><strong>Planícies Amazônicas:</strong> Áreas baixas e sedimentares, ideais para rios largos como o Amazonas, que transporta 20% da água doce do mundo. 🌊</li><li><strong>Grandes Planícies:</strong> Extensa área plana no centro da América do Norte, formando um corredor desde o Canadá até o Golfo do México, importante região agrícola. 🌾</li><li><strong>Depressões:</strong> Áreas rebaixadas em relação aos planaltos circundantes, como a Depressão do Pantanal no Brasil e a Depressão do Grande Lago Salgado nos EUA. 🏞️</li></ul>",
+    "exemplos": "<p class='text-lg text-gray-700 mt-4'>O relevo influencia o clima e a vegetação, criando barreiras como os Andes, que causam <span class='tooltip'>chuvas orográficas<span class='tooltip-text'>Chuvas que ocorrem quando o ar úmido é forçado a subir ao encontrar uma montanha</span></span> no lado oeste e sombra de chuva no leste (ex.: Atacama). As diferentes altitudes também criam zonas climáticas verticais, onde a temperatura diminui com a elevação. 🌧️</p><div class='mb-4'><img src='images/perfil.jpg' alt='Perfil topográfico da América do Norte e do Sul' class='w-full rounded-lg shadow-md pinch-zoom-img' data-min-scale='1' data-max-scale='3'></div>",
+    "expandable": "<h4 class='text-xl font-semibold text-yellow-600 mb-2'>Curiosidades sobre o Relevo das Américas</h4><ul class='list-disc list-inside space-y-2'><li>O <strong>Grand Canyon</strong> nos EUA foi esculpido pelo Rio Colorado ao longo de 6 milhões de anos e tem até 1,8 km de profundidade. 🏞️</li><li>O <strong>Lago Titicaca</strong>, entre Peru e Bolívia, é o lago navegável mais alto do mundo, a 3.812 metros acima do nível do mar. 🏔️</li><li>O <strong>Salto Angel</strong> na Venezuela é a cachoeira mais alta do mundo, com 979 metros de queda livre. 💦</li><li>A <strong>Cordilheira dos Andes</strong> continua crescendo cerca de 4 mm por ano devido à contínua colisão entre as placas de Nazca e Sul-Americana. 🌋</li><li>O <strong>movimento das placas tectônicas</strong> é responsável pela formação das principais cadeias montanhosas das Américas, como mostra a imagem abaixo. 🧩</li></ul><div class='mt-4'><img src='images/placa.jpg' alt='Placas tectônicas da América do Sul' class='w-full rounded-lg shadow-md pinch-zoom-img' data-min-scale='1' data-max-scale='3'></div>",
+    "video": "https://www.youtube.com/embed/Wh3t49NsWBA",
+    "explicacao": "<div class='mb-6'><h3 class='text-2xl font-bold text-yellow-700 mb-4'>Classificação do Relevo segundo Jurandyr Ross</h3><p class='text-lg text-gray-700 mb-4'>O geógrafo brasileiro Jurandyr Luciano Sanches Ross propôs uma classificação do relevo que, embora focada no Brasil, pode ser aplicada para entender as formas de relevo das Américas. Segundo Ross, o relevo pode ser dividido em três grandes unidades:</p><ol class='list-decimal list-inside space-y-2 mb-4'><li><strong>Planaltos:</strong> São áreas elevadas (geralmente acima de 300m) e relativamente planas, que passam por processos de desgaste ou erosão. Nas Américas, exemplos importantes incluem o Planalto Brasileiro, o Planalto Mexicano e o Planalto do Colorado.</li><li><strong>Planícies:</strong> São terrenos baixos e aplainados, formados principalmente pela deposição de sedimentos. Exemplos nas Américas incluem a Planície Amazônica, as Grandes Planícies norte-americanas e a Planície do Pampa.</li><li><strong>Depressões:</strong> São áreas rebaixadas em relação aos planaltos circundantes, formadas por processos erosivos. Exemplos incluem a Depressão do Pantanal e a Depressão Central Americana.</li></ol><p class='text-lg text-gray-700 mb-4'>Ross identificou 28 unidades de relevo no Brasil, classificando-as de acordo com sua gênese e processos de formação. Esta abordagem considera tanto a estrutura geológica quanto os processos externos que modelam a superfície.</p><p class='text-lg text-gray-700 mb-4'>Aplicando os conceitos de Ross para as Américas, podemos classificar as principais formas de relevo em:</p><ul class='list-disc list-inside space-y-2 mb-4'><li><strong>Planaltos em bacias sedimentares:</strong> Como o Planalto da Amazônia Oriental e o Planalto do Colorado.</li><li><strong>Planaltos em intrusões e coberturas residuais:</strong> Como os planaltos residuais norte-americanos.</li><li><strong>Planaltos em núcleos cristalinos arqueados:</strong> Como o Planalto da Borborema no Brasil.</li><li><strong>Planaltos em cinturões orogenéticos:</strong> Como as áreas elevadas dos Andes e das Montanhas Rochosas.</li><li><strong>Planícies e terras baixas costeiras:</strong> Como a Planície Costeira do Golfo e do Atlântico nos EUA.</li><li><strong>Planícies e terras baixas fluviais:</strong> Como a Planície Amazônica e a Planície do Mississippi.</li><li><strong>Depressões periféricas e interplanálticas:</strong> Como a Depressão do Pantanal e a Depressão Central Americana.</li></ul><p class='text-lg text-gray-700'>Esta classificação nos ajuda a entender como o relevo das Américas se formou e como ele continua a ser modelado pelos agentes externos (clima, vegetação, rios) e internos (tectonismo, vulcanismo).</p></div>",
+    "formacoes": [
+      {
+        "id": "andes",
+        "nome": "Cordilheira dos Andes",
+        "cor": "yellow",
+        "emoji": "🏔️",
+        "descricao": "<p class='text-lg text-gray-700'>A Cordilheira dos Andes é a maior cadeia montanhosa continental do mundo, estendendo-se por 7.000 km ao longo da costa oeste da América do Sul. 🏔️</p><p class='text-lg text-gray-700'>Formada pela subducção da Placa de Nazca sob a Placa Sul-Americana, os Andes atravessam sete países: Venezuela, Colômbia, Equador, Peru, Bolívia, Chile e Argentina. Seu ponto mais alto é o Monte Aconcágua (6.959m), localizado na Argentina. ⛰️</p><p class='text-lg text-gray-700'>Características principais:</p><ul class='list-disc list-inside'><li>Alta atividade vulcânica e sísmica</li><li>Diferentes zonas de altitude com climas e vegetações distintos</li><li>Abriga o Altiplano, um planalto elevado entre duas cadeias montanhosas</li><li>Contém importantes reservas minerais, incluindo cobre, prata e lítio</li></ul>"
+      },
+      {
+        "id": "rochosas",
+        "nome": "Montanhas Rochosas",
+        "cor": "blue",
+        "emoji": "⛰️",
+        "descricao": "<p class='text-lg text-gray-700'>As Montanhas Rochosas formam uma importante cordilheira na América do Norte, estendendo-se por mais de 4.800 km do Canadá até o Novo México (EUA). ⛰️</p><p class='text-lg text-gray-700'>Formadas há cerca de 80 milhões de anos durante a Orogenia Laramide, quando a Placa do Pacífico colidiu com a Placa Norte-Americana. Seu ponto mais alto é o Monte Elbert (4.401m) no Colorado. 🏔️</p><p class='text-lg text-gray-700'>Características principais:</p><ul class='list-disc list-inside'><li>Paisagens diversas, incluindo picos nevados, florestas de coníferas e vales glaciais</li><li>Divisor continental das águas na América do Norte</li><li>Rica biodiversidade com habitats para ursos, alces, pumas e águias</li><li>Importantes recursos minerais, incluindo ouro, prata e carvão</li></ul>"
+      },
+      {
+        "id": "planalto",
+        "nome": "Planalto Brasileiro",
+        "cor": "green",
+        "emoji": "🏞️",
+        "descricao": "<p class='text-lg text-gray-700'>O Planalto Brasileiro ocupa cerca de 5 milhões de km² no Brasil, sendo uma das formações geológicas mais antigas das Américas. 🏞️</p><p class='text-lg text-gray-700'>Formado principalmente por rochas cristalinas pré-cambrianas, o planalto foi moldado por milhões de anos de erosão. Suas altitudes variam entre 300 e 1.200 metros, com o Pico da Bandeira (2.892m) como seu ponto mais alto. 🌄</p><p class='text-lg text-gray-700'>Características principais:</p><ul class='list-disc list-inside'><li>Dividido em três grandes unidades: Planalto Atlântico, Planalto Central e Planalto Meridional</li><li>Rico em minérios como ferro, manganês, ouro e bauxita</li><li>Abriga as nascentes de importantes rios brasileiros</li><li>Suporta diversos biomas, incluindo Cerrado, Mata Atlântica e Caatinga</li></ul>"
+      },
+      {
+        "id": "planicie",
+        "nome": "Grandes Planícies",
+        "cor": "brown",
+        "emoji": "🌾",
+        "descricao": "<p class='text-lg text-gray-700'>As Grandes Planícies formam uma vasta região plana no centro da América do Norte, estendendo-se do Canadá até o Texas. 🌾</p><p class='text-lg text-gray-700'>Formadas pela deposição de sedimentos erodidos das Montanhas Rochosas e por antigos mares interiores, estas planícies têm altitudes que variam de 300 a 1.500 metros, com um declive suave de oeste para leste. 🏞️</p><p class='text-lg text-gray-700'>Características principais:</p><ul class='list-disc list-inside'><li>Terreno predominantemente plano com colinas suaves</li><li>Solos férteis que sustentam extensa produção agrícola</li><li>Vegetação original de pradarias, hoje em grande parte convertida em áreas agrícolas</li><li>Clima continental com invernos frios e verões quentes</li><li>Importantes bacias hidrográficas, incluindo o Rio Mississippi-Missouri</li></ul>"
+      }
+    ],
+    "quiz": [
+      {
+        "pergunta": "Qual é o pico mais alto da Cordilheira dos Andes? 🏔️",
+        "resposta": "a",
+        "dificuldade": "basic",
+        "opcoes": [
+          { "texto": "a) Aconcágua (6959m)", "feedback": "Correto! O Aconcágua é o ponto mais alto do hemisfério sul! 🎉", "correta": true },
+          { "texto": "b) Monte Elbert (4399m)", "feedback": "Não! O Monte Elbert fica nas Montanhas Rochosas. Tente novamente! 😅", "correta": false },
+          { "texto": "c) Pico da Neblina (2995m)", "feedback": "Não! O Pico da Neblina é o mais alto do Brasil, mas não dos Andes. Tente novamente! 😊", "correta": false },
+          { "texto": "d) Monte Everest (8848m)", "feedback": "Não! O Everest fica no Himalaia, não nas Américas. Vamos tentar? 😉", "correta": false }
+        ]
+      },
+      {
+        "pergunta": "O que causa a formação das Montanhas Rochosas? 🏔️",
+        "resposta": "c",
+        "dificuldade": "basic",
+        "opcoes": [
+          { "texto": "a) Erosão fluvial", "feedback": "Não! Erosão molda o relevo, mas não o forma. Tente novamente! 😅", "correta": false },
+          { "texto": "b) Sedimentação marinha", "feedback": "Não! A sedimentação forma planícies, não montanhas. Tente novamente! 😊", "correta": false },
+          { "texto": "c) Colisão de placas tectônicas", "feedback": "Correto! A colisão entre a Placa do Pacífico e a Norte-Americana formou as Rochosas! 🎉", "correta": true },
+          { "texto": "d) Vulcanismo", "feedback": "Não! Embora haja vulcões nas Rochosas, não foi sua causa principal. Vamos tentar? 😉", "correta": false }
+        ]
+      },
+      {
+        "pergunta": "Segundo Jurandyr Ross, quais são as três grandes unidades de relevo? ⛰️",
+        "resposta": "b",
+        "dificuldade": "basic",
+        "opcoes": [
+          { "texto": "a) Montanhas, vales e planícies", "feedback": "Não! Essa não é a classificação de Ross. Tente novamente! 😅", "correta": false },
+          { "texto": "b) Planaltos, planícies e depressões", "feedback": "Correto! Ross classifica o relevo nestas três grandes unidades! 🎉", "correta": true },
+          { "texto": "c) Serras, chapadas e baixadas", "feedback": "Não! Essas são formas específicas, não as unidades principais. Tente novamente! 😊", "correta": false },
+          { "texto": "d) Escudos, bacias e dobramentos", "feedback": "Não! Esses são tipos de estruturas geológicas, não formas de relevo. Vamos tentar? 😉", "correta": false }
+        ]
+      },
+      {
+        "pergunta": "Como o relevo influencia o clima de uma região? 🌦️",
+        "resposta": "d",
+        "dificuldade": "intermediate",
+        "opcoes": [
+          { "texto": "a) Não influencia, apenas o clima influencia o relevo", "feedback": "Não! O relevo tem grande influência sobre o clima. Tente novamente! 😅", "correta": false },
+          { "texto": "b) Apenas pela altitude, que diminui a temperatura", "feedback": "Parcialmente correto, mas há outros fatores. Tente novamente! 😊", "correta": false },
+          { "texto": "c) Apenas bloqueando ventos em algumas direções", "feedback": "Parcialmente correto, mas há outros fatores. Tente novamente! 😊", "correta": false },
+          { "texto": "d) Pela altitude, orientação das encostas e barreiras aos ventos", "feedback": "Correto! O relevo influencia o clima de múltiplas formas, incluindo essas três! 🎉", "correta": true }
+        ]
+      },
+      {
+        "pergunta": "Por que o Deserto do Atacama se formou a leste dos Andes? 🏜️",
+        "resposta": "a",
+        "dificuldade": "advanced",
+        "opcoes": [
+          { "texto": "a) Devido ao efeito de sombra de chuva", "feedback": "Correto! Os Andes bloqueiam a umidade do Pacífico, criando uma sombra de chuva a leste! 🎉", "correta": true },
+          { "texto": "b) Por causa da Corrente de Humboldt", "feedback": "A Corrente de Humboldt contribui, mas não explica a localização a leste dos Andes. 😅", "correta": false },
+          { "texto": "c) Devido à baixa latitude", "feedback": "Não! A latitude não explica por que o deserto está a leste da cordilheira. 😊", "correta": false },
+          { "texto": "d) Por causa da alta altitude", "feedback": "Não! O Atacama está em altitude relativamente baixa comparado aos Andes. 😉", "correta": false }
+        ]
+      }
+    ]
+  },
+  "vegetacao": {
+    "introducao": "<p class='text-lg text-gray-700 mb-4'><strong>Vegetação das Américas:</strong> A vegetação das Américas é extremamente diversificada, refletindo a variedade de climas e relevos do continente. Do Ártico ao extremo sul da Patagônia, encontramos desde tundras geladas até florestas tropicais exuberantes. 🌱</p><div class='mb-4'><img src='images/vegetacao.jpg' alt='Mapa de vegetação da América' class='w-full rounded-lg shadow-md pinch-zoom-img' data-min-scale='1' data-max-scale='3'></div>",
+    "caracteristicas": "<ul class='list-disc list-inside space-y-2'><li><strong>Floresta Amazônica:</strong> Maior floresta tropical do mundo, abriga mais de 10% de todas as espécies conhecidas e produz cerca de 20% do oxigênio do planeta. 🌴</li><li><strong>Pradarias:</strong> Vastas áreas de gramíneas nas Grandes Planícies da América do Norte e nos Pampas da América do Sul, hoje em grande parte convertidas em áreas agrícolas. 🌾</li><li><strong>Florestas Temperadas:</strong> Encontradas no nordeste dos EUA e sudeste do Canadá, caracterizadas por árvores decíduas que perdem suas folhas no outono. 🍁</li><li><strong>Taiga:</strong> Floresta boreal que cobre grande parte do Canadá e Alasca, dominada por coníferas adaptadas ao frio intenso. 🌲</li><li><strong>Tundra:</strong> Vegetação de musgos e líquens no extremo norte, adaptada ao permafrost e aos invernos rigorosos. ❄️</li><li><strong>Desertos:</strong> Vegetação xerófita adaptada à escassez de água, como cactos e arbustos espinhosos, encontrada no sudoeste dos EUA e no Atacama. 🌵</li></ul>",
+    "exemplos": "<p class='text-lg text-gray-700 mt-4'>A distribuição da vegetação está intimamente ligada ao clima e ao relevo. Por exemplo, a Cordilheira dos Andes cria diferentes zonas de vegetação em função da altitude, desde florestas tropicais nas terras baixas até vegetação alpina nas áreas mais elevadas. 🏔️</p>",
+    "expandable": "<h4 class='text-xl font-semibold text-blue-600 mb-2'>Curiosidades sobre a Vegetação das Américas</h4><ul class='list-disc list-inside space-y-2'><li>A <strong>Floresta Amazônica</strong> contém aproximadamente 390 bilhões de árvores de 16.000 espécies diferentes. 🌳</li><li>O <strong>Cerrado brasileiro</strong> é considerado a savana mais biodiversa do mundo, com mais de 10.000 espécies de plantas, das quais 45% são exclusivas dessa região. 🌿</li><li>As <strong>Sequoias</strong> da Califórnia estão entre as árvores mais altas do mundo, podendo ultrapassar 100 metros de altura e viver mais de 3.000 anos. 🌲</li><li>O <strong>Saguaro</strong>, um cacto emblemático do Deserto de Sonora, pode viver até 200 anos e crescer até 15 metros de altura. 🌵</li><li>A <strong>relação entre vegetação, clima e relevo</strong> é tão forte que muitas vezes os limites entre biomas coincidem com mudanças no relevo ou nas zonas climáticas. 🌍</li></ul>",
+    "video": "https://www.youtube.com/embed/0I1NrYc7Vxs",
+    "explicacao": "<div class='mb-6'><h3 class='text-2xl font-bold text-blue-700 mb-4'>A Interação entre Vegetação, Clima e Relevo</h3><p class='text-lg text-gray-700 mb-4'>A vegetação das Américas é o resultado de uma complexa interação entre fatores climáticos e geomorfológicos. Esta relação de interdependência cria um mosaico de ecossistemas que se distribuem ao longo do continente.</p><p class='text-lg text-gray-700 mb-4'>O clima é o principal determinante da distribuição dos biomas, mas o relevo modifica as condições climáticas locais, criando microclimas que podem sustentar vegetações distintas em áreas relativamente próximas. Por exemplo:</p><ul class='list-disc list-inside space-y-2 mb-4'><li>Nas encostas a barlavento das montanhas (lado que recebe os ventos úmidos), a vegetação tende a ser mais exuberante devido às chuvas orográficas.</li><li>Nas encostas a sotavento (lado oposto aos ventos), a vegetação é geralmente mais seca devido ao efeito de sombra de chuva.</li><li>Em áreas montanhosas, a vegetação se distribui em andares altitudinais, com florestas nas partes baixas e vegetação rasteira nas partes altas.</li></ul><p class='text-lg text-gray-700 mb-4'>A vegetação, por sua vez, também influencia o clima e o relevo. As florestas aumentam a umidade local através da evapotranspiração e protegem o solo contra a erosão. A remoção da cobertura vegetal pode levar a mudanças climáticas locais e acelerar processos erosivos, modificando o relevo ao longo do tempo.</p><p class='text-lg text-gray-700'>Esta tríade (clima-relevo-vegetação) forma um sistema dinâmico em que cada elemento influencia e é influenciado pelos demais, criando a rica diversidade de paisagens naturais que caracteriza o continente americano.</p></div>",
+    "biomas": [
+      {
+        "id": "floresta",
+        "nome": "Floresta Tropical",
+        "cor": "green",
+        "emoji": "🌴",
+        "descricao": "<p class='text-lg text-gray-700'>As florestas tropicais das Américas, como a Amazônia e a Mata Atlântica, são caracterizadas por alta biodiversidade, estrutura complexa e clima quente e úmido. 🌴</p><div class='mb-4'><img src='images/florestatropical.jpg' alt='Floresta Tropical Amazônica' class='w-full rounded-lg shadow-md pinch-zoom-img' data-min-scale='1' data-max-scale='3'></div><p class='text-lg text-gray-700'>A Floresta Amazônica é a maior floresta tropical do mundo, cobrindo cerca de 5,5 milhões de km² em nove países da América do Sul, sendo 60% no Brasil. Abriga mais de 10% de todas as espécies conhecidas do planeta. 🌿</p><p class='text-lg text-gray-700'>Características principais:</p><ul class='list-disc list-inside'><li>Vegetação densa e estratificada (dossel, sub-bosque, estrato herbáceo)</li><li>Alta diversidade de espécies (árvores, epífitas, lianas)</li><li>Árvores perenes (não perdem folhas sazonalmente)</li><li>Solos geralmente pobres em nutrientes, com rápida ciclagem de matéria orgânica</li><li>Forte relação com o clima equatorial e tropical úmido</li></ul>"
+      },
+      {
+        "id": "savana",
+        "nome": "Savanas",
+        "cor": "yellow",
+        "emoji": "🌾",
+        "descricao": "<p class='text-lg text-gray-700'>As savanas americanas, como o Cerrado brasileiro e os Llanos venezuelanos, são caracterizadas por uma mistura de gramíneas e árvores esparsas, adaptadas a estações secas pronunciadas. 🌾</p><div class='mb-4'><img src='images/savana.jpg' alt='Savana com árvores esparsas' class='w-full rounded-lg shadow-md pinch-zoom-img' data-min-scale='1' data-max-scale='3'></div><p class='text-lg text-gray-700'>O Cerrado brasileiro é a savana mais biodiversa do mundo, cobrindo cerca de 2 milhões de km² no Brasil central. Abriga mais de 10.000 espécies de plantas, das quais 45% são endêmicas (exclusivas da região). 🌿</p><p class='text-lg text-gray-700'>Características principais:</p><ul class='list-disc list-inside'><li>Predomínio de gramíneas com árvores e arbustos esparsos</li><li>Vegetação adaptada ao fogo (cascas grossas, raízes profundas)</li><li>Árvores geralmente de pequeno e médio porte, muitas vezes com troncos retorcidos</li><li>Estações seca e chuvosa bem definidas</li><li>Solos geralmente ácidos e pobres em nutrientes</li></ul>"
+      },
+      {
+        "id": "pradaria",
+        "nome": "Pradarias",
+        "cor": "lightgreen",
+        "emoji": "🌾",
+        "descricao": "<p class='text-lg text-gray-700'>As pradarias das Américas, como as Grandes Planícies dos EUA e os Pampas da Argentina, são vastas extensões dominadas por gramíneas, com poucas ou nenhuma árvore. 🌾</p><div class='mb-4'><img src='images/estepes.jpg' alt='Pradarias com montanhas ao fundo' class='w-full rounded-lg shadow-md pinch-zoom-img' data-min-scale='1' data-max-scale='3'></div><p class='text-lg text-gray-700'>As Grandes Planícies norte-americanas já foram o habitat de imensos rebanhos de bisões e antílopes. Hoje, grande parte dessa vegetação foi convertida em áreas agrícolas devido à fertilidade do solo. 🌿</p><p class='text-lg text-gray-700'>Características principais:</p><ul class='list-disc list-inside'><li>Dominância de gramíneas e outras plantas herbáceas</li><li>Poucas árvores, geralmente concentradas próximas a cursos d'água</li><li>Solo rico em matéria orgânica (chernozém)</li><li>Adaptação a incêndios naturais e pastoreio</li><li>Clima temperado com precipitação moderada (500-900 mm/ano)</li></ul>"
+      },
+      {
+        "id": "deserto",
+        "nome": "Vegetação Desértica",
+        "cor": "orange",
+        "emoji": "🌵",
+        "descricao": "<p class='text-lg text-gray-700'>A vegetação desértica das Américas, encontrada no Atacama (Chile), Sonora (México/EUA) e outros desertos, é adaptada a condições extremas de aridez. 🌵</p><div class='mb-4'><img src='images/deserto.jpg' alt='Deserto com cactos' class='w-full rounded-lg shadow-md pinch-zoom-img' data-min-scale='1' data-max-scale='3'></div><p class='text-lg text-gray-700'>O Deserto de Sonora abriga o emblemático cacto Saguaro, que pode viver até 200 anos e crescer até 15 metros de altura. Já o Atacama é tão árido que em algumas áreas não existe vegetação. 🏜️</p><p class='text-lg text-gray-700'>Características principais:</p><ul class='list-disc list-inside'><li>Plantas xerófitas com adaptações para conservar água</li><li>Raízes extensas e superficiais para captar água rapidamente</li><li>Folhas reduzidas ou modificadas em espinhos para reduzir a transpiração</li><li>Caules suculentos para armazenar água</li><li>Ciclo de vida curto em plantas anuais, que germinam e florescem rapidamente após chuvas raras</li></ul>"
+      },
+      {
+        "id": "tundra",
+        "nome": "Tundra",
+        "cor": "lightblue",
+        "emoji": "❄️",
+        "descricao": "<p class='text-lg text-gray-700'>A tundra é encontrada no extremo norte da América do Norte, principalmente no Alasca e norte do Canadá, em regiões de clima polar. ❄️</p><div class='mb-4'><img src='images/tundra.jpg' alt='Paisagem de Tundra' class='w-full rounded-lg shadow-md pinch-zoom-img' data-min-scale='1' data-max-scale='3'></div><p class='text-lg text-gray-700'>É caracterizada por vegetação baixa e rasteira, adaptada a condições extremas de frio e à presença de permafrost (solo permanentemente congelado). Durante o curto verão ártico, a camada superficial do solo descongela, permitindo o crescimento rápido da vegetação. 🌿</p><p class='text-lg text-gray-700'>Características principais:</p><ul class='list-disc list-inside'><li>Dominância de musgos, líquens, gramíneas e arbustos anões</li><li>Ausência de árvores devido ao permafrost e aos ventos fortes</li><li>Plantas com ciclo de vida curto, aproveitando o breve verão</li><li>Adaptações ao frio extremo, como crescimento próximo ao solo</li><li>Baixa biodiversidade comparada a outros biomas</li></ul>"
+      }
+    ],
+    "quiz": [
+      {
+        "pergunta": "Qual bioma das Américas tem a maior biodiversidade? 🌴",
+        "resposta": "a",
+        "dificuldade": "basic",
+        "opcoes": [
+          { "texto": "a) Floresta Amazônica", "feedback": "Correto! A Amazônia é o bioma mais biodiverso do mundo! 🎉", "correta": true },
+          { "texto": "b) Cerrado", "feedback": "Não! O Cerrado é biodiverso, mas a Amazônia é maior. Tente novamente! 😅", "correta": false },
+          { "texto": "c) Pradarias dos EUA", "feedback": "Não! As pradarias têm menos diversidade. Tente novamente! 😊", "correta": false },
+          { "texto": "d) Deserto do Atacama", "feedback": "Não! O Atacama é muito seco para alta biodiversidade. Vamos tentar? 😉", "correta": false }
+        ]
+      },
+      {
+        "pergunta": "Por que o Cerrado é considerado uma savana? 🌾",
+        "resposta": "c",
+        "dificuldade": "basic",
+        "opcoes": [
+          { "texto": "a) Tem chuvas constantes o ano todo", "feedback": "Não! Chuvas constantes são típicas de florestas tropicais. Tente novamente! 😅", "correta": false },
+          { "texto": "b) É completamente seco", "feedback": "Não! O Cerrado tem uma estação chuvosa. Tente novamente! 😊", "correta": false },
+          { "texto": "c) Tem 2 estações: seca e chuvosa", "feedback": "Correto! Savanas têm estações bem definidas, como o Cerrado! 🎉", "correta": true },
+          { "texto": "d) É uma floresta densa", "feedback": "Não! Florestas densas são como a Amazônia. Vamos tentar? 😉", "correta": false }
+        ]
+      },
+      {
+        "pergunta": "O que ameaça as pradarias dos EUA? 🌾",
+        "resposta": "b",
+        "dificuldade": "basic",
+        "opcoes": [
+          { "texto": "a) Chuvas excessivas", "feedback": "Não! Chuvas excessivas não são o principal problema. Tente novamente! 😅", "correta": false },
+          { "texto": "b) Expansão agrícola", "feedback": "Correto! A agricultura reduziu as pradarias a menos de 1% de sua área original! 🎉", "correta": true },
+          { "texto": "c) Aumento de florestas", "feedback": "Não! As florestas não estão crescendo nas pradarias. Tente novamente! 😊", "correta": false },
+          { "texto": "d) Clima polar", "feedback": "Não! O clima polar não afeta as pradarias. Vamos tentar? 😉", "correta": false }
+        ]
+      },
+      {
+        "pergunta": "Como as árvores do Cerrado se adaptam aos incêndios naturais? 🔥",
+        "resposta": "a",
+        "dificuldade": "intermediate",
+        "opcoes": [
+          { "texto": "a) Desenvolvem cascas grossas e raízes profundas", "feedback": "Correto! Essas adaptações protegem contra o fogo e permitem rebrotar após queimadas! 🎉", "correta": true },
+          { "texto": "b) Crescem muito altas para evitar as chamas", "feedback": "Não! As árvores do Cerrado geralmente são baixas e retorcidas. 😅", "correta": false },
+          { "texto": "c) Perdem todas as folhas durante a estação seca", "feedback": "Parcialmente verdadeiro, mas não é a principal adaptação contra incêndios. 😊", "correta": false },
+          { "texto": "d) Produzem sementes que só germinam após o fogo", "feedback": "Algumas plantas do Cerrado têm essa característica, mas não é a adaptação principal das árvores. 😉", "correta": false }
+        ]
+      },
+      {
+        "pergunta": "Por que a Floresta Amazônica mantém alta produtividade mesmo com solos pobres? 🌱",
+        "resposta": "c",
+        "dificuldade": "advanced",
+        "opcoes": [
+          { "texto": "a) As plantas absorvem nutrientes diretamente da chuva", "feedback": "Não! Embora a chuva forneça alguns nutrientes, não é o mecanismo principal. 😅", "correta": false },
+          { "texto": "b) O solo amazônico é naturalmente rico em nutrientes", "feedback": "Incorreto! O solo amazônico é geralmente pobre e lixiviado pelas chuvas intensas. 😊", "correta": false },
+          { "texto": "c) Ciclagem rápida de nutrientes na camada de serapilheira", "feedback": "Correto! A decomposição rápida da matéria orgânica e a absorção eficiente pelas raízes mantêm os nutrientes no ecossistema! 🎉", "correta": true },
+          { "texto": "d) As plantas não precisam de muitos nutrientes", "feedback": "Não! As plantas tropicais precisam de nutrientes como qualquer outra. 😉", "correta": false }
+        ]
+      }
+    ]
+  },
+  "biomas": {
+    "introducao": "<p class='text-lg text-gray-700 mb-4'><strong>Biomas das Américas:</strong> Os biomas são grandes ecossistemas caracterizados por vegetação, clima e relevo específicos. As Américas abrigam uma impressionante diversidade de biomas, desde a tundra ártica até as florestas tropicais. 🌎</p>",
+    "caracteristicas": "<ul class='list-disc list-inside space-y-2'><li><strong>Floresta Amazônica:</strong> Maior floresta tropical do mundo, com mais de 40.000 espécies de plantas e clima equatorial úmido. 🌴</li><li><strong>Cerrado:</strong> Savana brasileira, segundo maior bioma da América do Sul, com estações seca e chuvosa bem definidas. 🌾</li><li><strong>Mata Atlântica:</strong> Floresta tropical costeira, originalmente cobria 1,5 milhão de km² no Brasil, hoje reduzida a menos de 10% de sua área original. 🌳</li><li><strong>Caatinga:</strong> Único bioma exclusivamente brasileiro, caracterizado por vegetação xerófita adaptada ao clima semiárido. 🌵</li><li><strong>Pampas:</strong> Pradarias temperadas que se estendem pelo sul do Brasil, Uruguai e Argentina, com predomínio de gramíneas. 🌾</li><li><strong>Pantanal:</strong> Maior planície alagável do mundo, localizado principalmente no Brasil, com rica biodiversidade aquática e terrestre. 🐊</li><li><strong>Grandes Planícies:</strong> Vastas pradarias na América do Norte, hoje em grande parte convertidas em áreas agrícolas. 🌾</li><li><strong>Floresta Boreal (Taiga):</strong> Maior bioma terrestre do mundo, cobrindo grande parte do Canadá e Alasca, dominado por coníferas. 🌲</li><li><strong>Tundra:</strong> Bioma do extremo norte, com vegetação rasteira adaptada ao permafrost e aos invernos rigorosos. ❄️</li><li><strong>Desertos:</strong> Como o Atacama (Chile) e Sonora (México/EUA), com vegetação adaptada à extrema aridez. 🏜️</li></ul>",
+    "exemplos": "<p class='text-lg text-gray-700 mt-4'>A distribuição dos biomas nas Américas reflete a interação entre clima, relevo e vegetação. Por exemplo, a Cordilheira dos Andes cria uma barreira que separa biomas completamente diferentes em lados opostos, como a floresta amazônica a leste e o deserto do Atacama a oeste. 🏔️</p>",
+    "expandable": "<h4 class='text-xl font-semibold text-purple-600 mb-2'>Curiosidades sobre os Biomas das Américas</h4><ul class='list-disc list-inside space-y-2'><li>O <strong>Pantanal</strong> abriga mais de 650 espécies de aves, 400 de peixes e 80 de mamíferos, sendo considerado um dos ecossistemas mais ricos em biodiversidade aquática do mundo. 🐠</li><li>A <strong>Floresta Amazônica</strong> produz cerca de 20% do oxigênio do planeta e contém 1/5 da água doce disponível no mundo. 💧</li><li>O <strong>Deserto do Atacama</strong> é tão árido que algumas áreas não registram chuvas há mais de 400 anos, e é usado pela NASA para testar equipamentos destinados a Marte. 🔭</li><li>A <strong>Mata Atlântica</strong> tem mais diversidade de árvores por hectare do que a Amazônia, apesar de sua área muito menor. 🌳</li><li>As <strong>Sequoias</strong> da Califórnia estão entre os organismos vivos mais antigos do planeta, com alguns espécimes tendo mais de 3.000 anos de idade. 🌲</li></ul>",
+    "video": "https://www.youtube.com/embed/0I1NrYc7Vxs",
+    "explicacao": "<div class='mb-6'><h3 class='text-2xl font-bold text-purple-700 mb-4'>A Relação entre Clima, Relevo e Vegetação nos Biomas Americanos</h3><p class='text-lg text-gray-700 mb-4'>Os biomas das Américas são o resultado da complexa interação entre clima, relevo e vegetação. Cada um desses fatores influencia e é influenciado pelos demais, criando ecossistemas únicos com características próprias.</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 mb-4'><div><img src='images/clima.jpg' alt='Mapa de climas da América' class='w-full rounded-lg shadow-md pinch-zoom-img' data-min-scale='1' data-max-scale='3'></div><div><img src='images/relevo.jpg' alt='Mapa de relevo da América' class='w-full rounded-lg shadow-md pinch-zoom-img' data-min-scale='1' data-max-scale='3'></div></div><p class='text-lg text-gray-700 mb-4'>O clima é o principal determinante da distribuição dos biomas. A temperatura e a precipitação definem quais tipos de plantas podem se desenvolver em cada região. Por exemplo:</p><ul class='list-disc list-inside space-y-2 mb-4'><li>Climas equatoriais e tropicais úmidos sustentam florestas densas como a Amazônia</li><li>Climas tropicais com estação seca favorecem savanas como o Cerrado</li><li>Climas temperados com precipitação moderada permitem o desenvolvimento de pradarias</li><li>Climas áridos limitam a vegetação a espécies adaptadas à seca</li><li>Climas polares suportam apenas vegetação rasteira como na tundra</li></ul><p class='text-lg text-gray-700 mb-4'>O relevo, por sua vez, modifica as condições climáticas locais. Montanhas criam barreiras aos ventos úmidos, gerando áreas mais chuvosas a barlavento e mais secas a sotavento. A altitude também influencia a temperatura, criando zonas climáticas verticais. Por exemplo, nos Andes, é possível encontrar desde florestas tropicais nas terras baixas até vegetação alpina nas áreas mais elevadas.</p><p class='text-lg text-gray-700 mb-4'>A vegetação, adaptada às condições climáticas e de relevo, também exerce influência sobre esses fatores. Florestas densas aumentam a umidade local através da evapotranspiração e protegem o solo contra a erosão. A remoção da cobertura vegetal pode levar a mudanças climáticas locais e acelerar processos erosivos.</p><p class='text-lg text-gray-700'>Esta tríade (clima-relevo-vegetação) forma um sistema dinâmico em constante transformação, onde cada elemento influencia e é influenciado pelos demais, resultando na rica diversidade de biomas que caracteriza o continente americano.</p></div>",
+    "quiz": [
+      {
+        "pergunta": "Qual é o maior bioma terrestre das Américas? 🌲",
+        "resposta": "c",
+        "dificuldade": "basic",
+        "opcoes": [
+          { "texto": "a) Floresta Amazônica", "feedback": "Não! Embora seja a maior floresta tropical, não é o maior bioma terrestre. 😅", "correta": false },
+          { "texto": "b) Grandes Planícies", "feedback": "Não! As Grandes Planícies são extensas, mas não são o maior bioma. 😊", "correta": false },
+          { "texto": "c) Floresta Boreal (Taiga)", "feedback": "Correto! A Taiga é o maior bioma terrestre, cobrindo grande parte do Canadá e Alasca! 🎉", "correta": true },
+          { "texto": "d) Deserto de Sonora", "feedback": "Não! Os desertos norte-americanos são relativamente pequenos comparados a outros biomas. 😉", "correta": false }
+        ]
+      },
+      {
+        "pergunta": "Qual fator é o principal determinante da distribuição dos biomas? 🌍",
+        "resposta": "a",
+        "dificuldade": "basic",
+        "opcoes": [
+          { "texto": "a) Clima", "feedback": "Correto! O clima (temperatura e precipitação) é o principal fator que determina a distribuição dos biomas! 🎉", "correta": true },
+          { "texto": "b) Solo", "feedback": "Não! Embora importante, o solo é geralmente um fator secundário. 😅", "correta": false },
+          { "texto": "c) Latitude", "feedback": "Quase! A latitude influencia o clima, que por sua vez determina os biomas. 😊", "correta": false },
+          { "texto": "d) Atividade humana", "feedback": "Não! A atividade humana modifica os biomas, mas não determina sua distribuição natural. 😉", "correta": false }
+        ]
+      },
+      {
+        "pergunta": "Qual bioma é exclusivamente brasileiro? 🌵",
+        "resposta": "b",
+        "dificuldade": "basic",
+        "opcoes": [
+          { "texto": "a) Cerrado", "feedback": "Não! O Cerrado se estende também por pequenas áreas de países vizinhos. 😅", "correta": false },
+          { "texto": "b) Caatinga", "feedback": "Correto! A Caatinga é o único bioma exclusivamente brasileiro! 🎉", "correta": true },
+          { "texto": "c) Pantanal", "feedback": "Não! O Pantanal se estende também pelo Paraguai e Bolívia. 😊", "correta": false },
+          { "texto": "d) Mata Atlântica", "feedback": "Não! A Mata Atlântica também ocorre na Argentina e Paraguai. 😉", "correta": false }
+        ]
+      },
+      {
+        "pergunta": "Como o relevo influencia a distribuição dos biomas? 🏔️",
+        "resposta": "d",
+        "dificuldade": "intermediate",
+        "opcoes": [
+          { "texto": "a) Não influencia, apenas o clima importa", "feedback": "Não! O relevo tem grande influência sobre os biomas. 😅", "correta": false },
+          { "texto": "b) Apenas pela altitude, que afeta a temperatura", "feedback": "Parcialmente correto, mas há outros fatores. 😊", "correta": false },
+          { "texto": "c) Apenas criando barreiras para dispersão de espécies", "feedback": "Parcialmente correto, mas há outros fatores. 😊", "correta": false },
+          { "texto": "d) Modificando condições climáticas locais", "feedback": "Correto! O relevo cria microclimas, afeta padrões de chuva e temperatura, influenciando os biomas! 🎉", "correta": true }
+        ]
+      },
+      {
+        "pergunta": "Por que a Floresta Amazônica e o Deserto do Atacama estão tão próximos geograficamente? 🌴🏜️",
+        "resposta": "c",
+        "dificuldade": "advanced",
+        "opcoes": [
+          { "texto": "a) É apenas coincidência", "feedback": "Não! Há uma explicação geográfica e climática para isso. 😅", "correta": false },
+          { "texto": "b) Por causa da latitude", "feedback": "Não! Estão em latitudes semelhantes, mas isso não explica a diferença. 😊", "correta": false },
+          { "texto": "c) A Cordilheira dos Andes cria uma barreira climática", "feedback": "Correto! Os Andes bloqueiam a umidade amazônica, criando o deserto do Atacama a oeste! 🎉", "correta": true },
+          { "texto": "d) Por causa da Corrente de Humboldt", "feedback": "Parcialmente correto, mas a barreira montanhosa é o fator principal. 😉", "correta": false }
+        ]
+      }
+    ]
+  },
+  "glossary": [
+    {
+      "termo": "Clima Equatorial",
+      "definicao": "Tipo de clima característico das regiões próximas à linha do Equador, com temperaturas elevadas e constantes durante todo o ano (média de 25°C a 27°C) e alta pluviosidade (2000 a 3000 mm anuais)."
+    },
+    {
+      "termo": "Clima Árido",
+      "definicao": "Tipo de clima caracterizado por baixíssima precipitação anual (menos de 250 mm) e alta evaporação, resultando em ambientes desérticos ou semidesérticos."
+    },
+    {
+      "termo": "Clima Temperado",
+      "definicao": "Tipo de clima encontrado em latitudes médias, caracterizado por quatro estações bem definidas e temperatura média anual entre 10°C e 20°C."
+    },
+    {
+      "termo": "Clima Polar",
+      "definicao": "Tipo de clima encontrado nas regiões próximas aos polos, caracterizado por temperaturas extremamente baixas durante todo o ano, com médias abaixo de 0°C."
+    },
+    {
+      "termo": "Clima Subtropical",
+      "definicao": "Tipo de clima encontrado entre as zonas temperadas e tropicais, caracterizado por verões quentes e úmidos e invernos amenos, com estações bem definidas."
+    },
+    {
+      "termo": "Clima Mediterrâneo",
+      "definicao": "Tipo de clima caracterizado por verões quentes e secos e invernos amenos e chuvosos, encontrado na Califórnia (EUA) e Chile central."
+    },
+    {
+      "termo": "Chuva Orográfica",
+      "definicao": "Tipo de precipitação que ocorre quando massas de ar úmido são forçadas a subir ao encontrar uma barreira montanhosa, resfriando-se e condensando-se em forma de chuva."
+    },
+    {
+      "termo": "Sombra de Chuva",
+      "definicao": "Fenômeno que ocorre quando uma cadeia montanhosa bloqueia a passagem de nuvens carregadas, criando uma região seca no lado oposto ao vento predominante."
+    },
+    {
+      "termo": "El Niño",
+      "definicao": "Fenômeno climático caracterizado pelo aquecimento anormal das águas superficiais do Oceano Pacífico Equatorial, que altera os padrões de chuva em várias partes do mundo."
+    },
+    {
+      "termo": "Corrente de Humboldt",
+      "definicao": "Corrente marítima fria que flui ao longo da costa oeste da América do Sul, influenciando o clima da região e contribuindo para a formação do Deserto do Atacama."
+    },
+    {
+      "termo": "Cordilheira",
+      "definicao": "Conjunto de montanhas alinhadas em uma mesma direção, formando uma cadeia montanhosa extensa."
+    },
+    {
+      "termo": "Planalto",
+      "definicao": "Forma de relevo relativamente plana e elevada, geralmente com bordas íngremes que a separam de áreas mais baixas."
+    },
+    {
+      "termo": "Planície",
+      "definicao": "Área de terra relativamente plana e baixa, geralmente formada pela deposição de sedimentos trazidos por rios ou pelo mar."
+    },
+    {
+      "termo": "Depressão",
+      "definicao": "Área rebaixada em relação aos planaltos circundantes, formada por processos erosivos ao longo do tempo geológico."
+    },
+    {
+      "termo": "Placa Tectônica",
+      "definicao": "Grande segmento rígido da litosfera terrestre que flutua sobre o manto e se move lentamente, interagindo com outras placas e causando fenômenos como terremotos, vulcões e formação de montanhas."
+    },
+    {
+      "termo": "Subducção",
+      "definicao": "Processo geológico em que uma placa tectônica mergulha sob outra, geralmente uma placa oceânica sob uma continental, resultando na formação de fossas oceânicas e cadeias montanhosas."
+    },
+    {
+      "termo": "Bioma",
+      "definicao": "Grande área geográfica caracterizada por um tipo dominante de vegetação e fauna, adaptadas às condições ambientais específicas daquela região."
+    },
+    {
+      "termo": "Floresta Tropical",
+      "definicao": "Bioma caracterizado por vegetação densa, alta biodiversidade e clima quente e úmido durante todo o ano, localizado principalmente nas regiões equatoriais."
+    },
+    {
+      "termo": "Savana",
+      "definicao": "Bioma caracterizado por uma mistura de gramíneas e árvores esparsas, com estações seca e chuvosa bem definidas."
+    },
+    {
+      "termo": "Pradaria",
+      "definicao": "Bioma dominado por gramíneas e outras plantas herbáceas, com poucas ou nenhuma árvore, encontrado em regiões de clima temperado com precipitação moderada."
+    },
+    {
+      "termo": "Taiga",
+      "definicao": "Também conhecida como floresta boreal, é um bioma caracterizado por florestas de coníferas adaptadas ao frio, encontrado em altas latitudes do hemisfério norte."
+    },
+    {
+      "termo": "Tundra",
+      "definicao": "Bioma encontrado no extremo norte, caracterizado por vegetação rasteira (musgos, líquens e gramíneas) adaptada ao permafrost e aos invernos rigorosos."
+    },
+    {
+      "termo": "Vegetação Xerófita",
+      "definicao": "Tipo de vegetação adaptada a ambientes com escassez de água, como desertos e regiões semiáridas, apresentando características como folhas reduzidas, espinhos e raízes profundas."
+    },
+    {
+      "termo": "Permafrost",
+      "definicao": "Solo permanentemente congelado encontrado em regiões de clima polar, que limita o crescimento de árvores e condiciona o tipo de vegetação que pode se desenvolver."
+    },
+    {
+      "termo": "Endemismo",
+      "definicao": "Fenômeno em que uma espécie é nativa e restrita a uma determinada área geográfica, não sendo encontrada naturalmente em nenhum outro lugar."
+    },
+    {
+      "termo": "Biodiversidade",
+      "definicao": "Variedade de formas de vida (espécies de plantas, animais, fungos e microrganismos) que existem em um determinado ambiente ou no planeta como um todo."
+    }
+  ]
+}
